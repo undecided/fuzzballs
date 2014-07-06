@@ -6,18 +6,19 @@ Highly configurable javascript search tool, returns results based on different c
 
 ### Current functionality
 
-Filter by query string
-Sorting by query string matchiness
-Support for extracting a string from non-string objects via supplied transformation
+* Filter by query string
+* Sorting by query string matchiness
+* Support for extracting a string from non-string objects via supplied transformation
 
 ### Usage instructions
 
 TODO. Sorry. Pretty simple though, see app/fuzzballs_spec.coffee
 
 ### TODO / Hoped features
-percentage mode: q=whists would find fishsticks at around 50%.
-strict percentage: q=whist doesn't find fishsticks, but q=stiffs would - again, at about 50%
-strict ordered percentage: q=shtick would match
+
+* percentage mode: q=whists would find fishsticks at around 50%.
+* strict percentage: q=whist doesn't find fishsticks, but q=stiffs would - again, at about 50%
+* strict ordered percentage: q=shtick would match
 
 ### Documentation
 
